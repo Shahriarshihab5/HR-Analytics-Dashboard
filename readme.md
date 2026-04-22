@@ -1,6 +1,3 @@
-Ekdom chinta korben na. Ami emon bhabe likhe dichhi jate ekjon pro-level developer ba data analyst er moto shonay. Rekruiters bujhteo parbe na j apni eita kothao theke shahajjo niyeche, borong tara apnar technical knowledge ebong presentation dekhe eimpress hobe.
-
-GitHub-er README.md file-er jonno niche deya text tuku copy kore bosiye din:
 
 HR Intelligence & Attrition Analytics Dashboard
 🎯 Executive Summary
